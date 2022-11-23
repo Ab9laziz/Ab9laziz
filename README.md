@@ -20,6 +20,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab9laziz&count_private=true&layout=compact&theme=merko" />
 </a>
-
+fg
 
 
