@@ -9,6 +9,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
 <a href="https://www.python.org" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
 <a href="http://reactjs.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
+<a href="https://www.djangoproject.com/" target="_blank"><code><img height="20" src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label-thumbnail.png"></code></a>
 
 
 
