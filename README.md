@@ -14,7 +14,7 @@
 <a href="https://redux.js.org/" target="_blank"><code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPADMLLAyozV3yHDW7-OJiDTrJp1Et4r8DwQ&s"></code></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ruby_logo.png/599px-Ruby_logo.png"></code></a>
 <a href="https://rubyonrails.org/" target="_blank"><code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLzcpxz_OzLtgHcYJRxoaX5RRQzAuoTNihg&s"></code></a>
-<a href="https://www.mongodb.com/" target="_blank"><code><img height="20" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"></code></a>
+<a href="https://www.mongodb.com/" target="_blank"><code><img height="20" src="https://github.com/detain/svg-logos/blob/master/svg/m/mongodb-icon-2.svg"></code></a>
 
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
