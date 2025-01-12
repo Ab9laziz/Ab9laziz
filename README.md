@@ -16,6 +16,8 @@
 <a href="https://rubyonrails.org/" target="_blank"><code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLzcpxz_OzLtgHcYJRxoaX5RRQzAuoTNihg&s"></code></a>
 <a href="https://www.mongodb.com/" target="_blank"><code><img height="20" src="https://github.com/detain/svg-logos/blob/master/svg/m/mongodb-icon-2.svg"></code></a>
 <a href="https://tailwindcss.com/" target="_blank"><code><img height="20" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png"></code></a>
+<a href="https://nodejs.org/en" target="_blank"><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code></a>
+<a href="https://nodejs.org/en" target="_blank"><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code></a>
 
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
